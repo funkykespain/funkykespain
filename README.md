@@ -40,6 +40,10 @@ Soy un profesional orientado a resultados que ha hecho la transición desde el m
 
 **Despliegue & Apps**  
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-5436DA?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Control de versiones**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
