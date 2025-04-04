@@ -38,7 +38,8 @@ Soy un profesional orientado a resultados que ha hecho la transición desde el m
 ![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?style=flat)
 ![MLFlow](https://img.shields.io/badge/-MLflow-1677BB?style=flat)
 
-**NLP & Audio**  
+**LLMs, NLP & AI Tools**  
+![Ollama](https://img.shields.io/badge/-Ollama-7C4DFF?style=flat&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![Whisper](https://img.shields.io/badge/-Whisper-17B5CB?style=flat&logo=openai&logoColor=white)
 ![Pyannote](https://img.shields.io/badge/-Pyannote-1DA1F2?style=flat&logo=python&logoColor=white)
