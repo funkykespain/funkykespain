@@ -4,7 +4,7 @@ print("Hello World!")
 # 👋 Soy Enrique Aranda
 
 📍 Madrid, España | 📊 Científico de Datos con background en Marketing  
-🌍 *I speak English and je suis bilingue en Français.* (...et voilà!)
+🌍 *I speak English & je suis bilingue en Français.* (...et voilà!)
 
 Soy un profesional orientado a resultados que ha hecho la transición desde el mundo del **marketing tradicional** al **machine learning aplicado al comportamiento del cliente**. Me especializo en construir soluciones de datos que transforman información en **acción de negocio**.
 
