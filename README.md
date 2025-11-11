@@ -3,19 +3,23 @@ print("Hello World!")
 ```
 # 👋 Soy Enrique Aranda
 
-📍 Madrid, España | 📊 Científico de Datos con background en Marketing  
+📍 Madrid, España | 📊 Científico de Datos | 🤖 Ingeniero de Automatización y IA  
 🌍 *I speak English & je suis bilingue en Français.* (...et voilà!)
 
-Como profesional orientado a resultados, he hecho la transición desde el mundo del **marketing tradicional** al **machine learning aplicado al comportamiento del cliente**. Me especializo en construir soluciones de datos que transforman información en **acción de negocio**.
+Como profesional orientado a resultados, he hecho la transición desde el mundo del **marketing tradicional** al **machine learning aplicado al comportamiento del cliente**.
+
+Me especializo en construir soluciones de datos que transforman información en **acción de negocio**, creando desde modelos predictivos hasta **agentes de IA y flujos de automatización complejos**.
 
 ---
 
 ## 💼 Sobre mí
 
-- 🔍 Apasionado por entender **cómo piensan y actúan los clientes** mediante datos.
-- 🧠 Fuerte enfoque en proyectos de **machine learning supervisado y no supervisado**.
-- 🚀 Experiencia aplicando **modelos predictivos y segmentación de clientes**.
-- 🛠️ Desarrollo de **aplicaciones interactivas con Streamlit** para democratizar el uso de modelos en equipos de negocio.
+  - 🔍 Apasionado por entender **cómo piensan y actúan los clientes** mediante datos.
+  - 🧠 Fuerte enfoque en proyectos de **machine learning supervisado y no supervisado**.
+  - 🚀 Experiencia aplicando **modelos predictivos y segmentación de clientes**.
+  - 🛠️ Desarrollo de **aplicaciones interactivas con Streamlit** para democratizar el uso de modelos en equipos de negocio.
+  - ⚡ Experto en automatización avanzada con n8n, integrando LLMs (OpenAI, Gemini, Mistral) y APIs (Google, WhatsApp, Telegram, Qdrant).
+  - 🤖 Diseño de ecosistemas de Agentes de IA (**RAG**, **Orquestación Multi-Agente**, **MCP**), incluyendo **asistentes personales**, **bots agénticos** y flujos de **meta-automatización**.
 
 ---
 
@@ -64,6 +68,13 @@ Como profesional orientado a resultados, he hecho la transición desde el mundo 
 
 ### **Automatización y Orquestación**
 ![n8n](https://img.shields.io/badge/-n8n-4E9BCD?style=flat&logo=n8n&logoColor=white)
+![Flowise](https://img.shields.io/badge/-Flowise-2A2E8C?style=flat&logo=<URL_DEL_LOGO>&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/-LLM%20Agents-6C63FF?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG%20Pipelines-512DA8?style=flat&logo=qdrant&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-00BCD4?style=flat&logo=python&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/-WhatsApp%20Automation-25D366?style=flat&logo=whatsapp&logoColor=white)
+![Telegram API](https://img.shields.io/badge/-Telegram%20Bots-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Google APIs](https://img.shields.io/badge/-Google%20APIs-4285F4?style=flat&logo=google&logoColor=white)
 
 ### **Control de Versiones**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -71,7 +82,7 @@ Como profesional orientado a resultados, he hecho la transición desde el mundo 
 
 ---
 
-## 📂 Repositorio Destacado
+## 📂 Repositorios Destacados
 
 ### 🧠 [Marketing ML: Customer Personality Analysis](https://github.com/funkykespain/marketing_ml_classification_regression_clustering)
 **Predicción y segmentación de clientes basada en modelos de clasificación, regresión y clustering.**  
@@ -83,6 +94,15 @@ Incluye análisis exploratorio, selección de variables, interpretabilidad de mo
 
 🔗 [Abrir App Clasificación](https://marketingmlclassificationregressionclustering-2apkcvnbir7q4iuc.streamlit.app)  
 🔗 [Abrir App Regresión](https://funkykespain-marketing--appregression02-regression-model-rjzlvk.streamlit.app)
+
+### 🤖 [Workflows de n8n: Agentes de IA y Automatización](https://github.com/funkykespain/workflows-n8n-publicos)
+
+**Colección pública de workflows avanzados de n8n, enfocados en Agentes de IA, RAG y automatización.**
+Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicios (MCP), flujos de curación de contenido y meta-workflows de gestión autónoma entre agentes.
+
+> - **KykeBot**: Asistente personal multi-agente con RAG y herramientas (WhatsApp, Google Calendar).
+> - **Boletín de Audio**: Orquesta de 3 IAs que genera un podcast de noticias.
+> - **ArrojoBot**: Chatbot RAG con herramientas (Spotify, YouTube, Facebook).
 
 ---
 
