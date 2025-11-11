@@ -92,7 +92,7 @@ Incluye análisis exploratorio, selección de variables, interpretabilidad de mo
 > - Regresión (¿Cuánto gastará un cliente?)
 > - Clustering (Segmentación de comportamiento - próximamente)
 
-🔗 [Abrir App Clasificación](https://marketingmlclassificationregressionclustering-2apkcvnbir7q4iuc.streamlit.app)  
+🔗 [Abrir App Clasificación](https://marketingmlclassificationregressionclustering-2apkcvnbir7q4iuc.streamlit.app)
 🔗 [Abrir App Regresión](https://funkykespain-marketing--appregression02-regression-model-rjzlvk.streamlit.app)
 
 ### 🤖 [Workflows de n8n: Agentes de IA y Automatización](https://github.com/funkykespain/workflows-n8n-publicos)
