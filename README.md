@@ -18,7 +18,7 @@ Me especializo en construir soluciones de datos que transforman información en 
   - 🧠 Fuerte enfoque en proyectos de **machine learning supervisado y no supervisado**.
   - 🚀 Experiencia aplicando **modelos predictivos y segmentación de clientes**.
   - 🛠️ Desarrollo de **aplicaciones interactivas con Streamlit** para democratizar el uso de modelos en equipos de negocio.
-  - ⚡ Experto en automatización avanzada con n8n, integrando LLMs (OpenAI, Gemini, Mistral) y APIs (Google, WhatsApp, Telegram, Qdrant).
+  - ⚡ Experto en **automatización avanzada** con n8n, integrando LLMs (OpenAI, Gemini, Mistral) y APIs (Google, WhatsApp, Telegram, Qdrant).
   - 🤖 Diseño de ecosistemas de Agentes de IA (**RAG**, **Orquestación Multi-Agente**, **MCP**), incluyendo **asistentes personales**, **bots agénticos** y flujos de **meta-automatización**.
 
 ---
