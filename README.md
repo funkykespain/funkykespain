@@ -101,8 +101,12 @@ Incluye análisis exploratorio, selección de variables, interpretabilidad de mo
 Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicios (MCP), flujos de curación de contenido y meta-workflows de gestión autónoma entre agentes.
 
 > - **KykeBot**: Asistente personal multi-agente con RAG y herramientas (WhatsApp, Google Calendar).
-> - **Boletín de Audio**: Orquesta de 3 IAs que genera un podcast de noticias.
+> - **Boletín de Audio**: Orquesta de 3 IAs que genera un podcast de noticias mandado por WhatsApp.
 > - **ArrojoBot**: Chatbot RAG con herramientas (Spotify, YouTube, Facebook).
+
+🔗 [Charlar con KikeBot](https://wa.me/34665656404)
+🔗 [Recibir boletín de noticias](https://wa.me/34665656404?text=Alta%20noticias)
+🔗 [Charlar con ArrojoBot](https://t.me/ArrojoBot_dev_bot)
 
 ---
 
