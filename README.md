@@ -38,6 +38,10 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/-Qdrant-4A154B?style=flat&logo=qdrant&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
+![Google Drive](https://img.shields.io/badge/-Google%20Drive-34A853?style=flat\&logo=googledrive\&logoColor=white)
+![Microsoft OneDrive](https://img.shields.io/badge/-OneDrive-0078D4?style=flat\&logo=microsoftonedrive\&logoColor=white)
 
 ### **Data Science & Machine Learning**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
@@ -47,13 +51,19 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?style=flat)
 ![MLflow](https://img.shields.io/badge/-MLflow-1677BB?style=flat)
 ![Hopsworks](https://img.shields.io/badge/-Hopsworks-4C9ED9?style=flat&logo=data&logoColor=white)
+![Google Cloud NLP](https://img.shields.io/badge/-Google%20Cloud%20NLP-4285F4?style=flat\&logo=googlecloud\&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/-Mistral%20Cloud-FFCC00?style=flat\&logo=mistral\&logoColor=black)
 
 ### **LLMs, NLP & AI Tools**
 ![Ollama](https://img.shields.io/badge/-Ollama-7C4DFF?style=flat&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![Whisper](https://img.shields.io/badge/-Whisper-17B5CB?style=flat&logo=openai&logoColor=white)
+![Google Gemini (PaLM)](https://img.shields.io/badge/-Google%20Gemini-8E24AA?style=flat\&logo=google\&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-FF6F00?style=flat\&logo=elevenlabs\&logoColor=white)
 ![Pyannote](https://img.shields.io/badge/-Pyannote-1DA1F2?style=flat&logo=python&logoColor=white)
-![OpenAI Platform](https://img.shields.io/badge/-OpenAI%20Platform-412991?style=flat&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-512DA8?style=flat\&logo=qdrant\&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-00BCD4?style=flat\&logo=python\&logoColor=white)
 
 ### **Visualización de Datos**
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
@@ -66,15 +76,22 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### **Automatización y Orquestación**
-![n8n](https://img.shields.io/badge/-n8n-4E9BCD?style=flat&logo=n8n&logoColor=white)
-![Flowise](https://img.shields.io/badge/-Flowise-2A2E8C?style=flat&logo=<URL_DEL_LOGO>&logoColor=white)
-![LLM Agents](https://img.shields.io/badge/-LLM%20Agents-6C63FF?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG%20Pipelines-512DA8?style=flat&logo=qdrant&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-00BCD4?style=flat&logo=python&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/-WhatsApp%20Automation-25D366?style=flat&logo=whatsapp&logoColor=white)
-![Telegram API](https://img.shields.io/badge/-Telegram%20Bots-26A5E4?style=flat&logo=telegram&logoColor=white)
-![Google APIs](https://img.shields.io/badge/-Google%20APIs-4285F4?style=flat&logo=google&logoColor=white)
+### **Automatización, Integraciones y Orquestación**
+![n8n](https://img.shields.io/badge/-n8n-4E9BCD?style=flat\&logo=n8n\&logoColor=white)
+![Flowise](https://img.shields.io/badge/-Flowise-2A2E8C?style=flat\&logo=openai\&logoColor=white)
+![Evolution API](https://img.shields.io/badge/-Evolution%20API-25D366?style=flat\&logo=whatsapp\&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/-WhatsApp%20Automation-25D366?style=flat\&logo=whatsapp\&logoColor=white)
+![Telegram API](https://img.shields.io/badge/-Telegram%20Bots-26A5E4?style=flat\&logo=telegram\&logoColor=white)
+![Facebook Graph API](https://img.shields.io/badge/-Facebook%20Graph%20API-1877F2?style=flat\&logo=facebook\&logoColor=white)
+![LinkedIn API](https://img.shields.io/badge/-LinkedIn%20Automation-0077B5?style=flat\&logo=linkedin\&logoColor=white)
+![Google Workspace APIs](https://img.shields.io/badge/-Google%20Workspace%20APIs-4285F4?style=flat\&logo=google\&logoColor=white)
+![Mautic](https://img.shields.io/badge/-Mautic%20CRM-6C63FF?style=flat\&logo=mautic\&logoColor=white)
+![Apify](https://img.shields.io/badge/-Apify-F2B300?style=flat\&logo=apify\&logoColor=black)
+![Firecrawl](https://img.shields.io/badge/-Firecrawl-FF5722?style=flat\&logo=fire\&logoColor=white)
+![SerpAPI](https://img.shields.io/badge/-SerpAPI-4285F4?style=flat\&logo=google\&logoColor=white)
+![GitHub API](https://img.shields.io/badge/-GitHub%20API-181717?style=flat\&logo=github\&logoColor=white)
+![Microsoft Graph API](https://img.shields.io/badge/-Microsoft%20Graph-5E5E5E?style=flat\&logo=microsoft\&logoColor=white)
+![MCP Client](https://img.shields.io/badge/-MCP%20Client-009688?style=flat\&logo=data\&logoColor=white)
 
 ### **Control de Versiones**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
