@@ -6,7 +6,7 @@ print("Hello World!")
 📍 Madrid, España | 📊 Científico de Datos | 🤖 Ingeniero de Automatización y IA  
 🌍 *I speak English & je suis bilingue en Français.* (...et voilà!)
 
-Como profesional orientado a resultados, he hecho la transición desde el mundo del **marketing tradicional** al **machine learning aplicado al comportamiento del cliente**.
+Como profesional orientado a resultados, he hecho la transición desde el mundo del **marketing tradicional y campañas de Meta/Google Ads** al **machine learning aplicado al comportamiento del cliente**.
 
 Me especializo en construir soluciones de datos que transforman información en **acción de negocio**, creando desde modelos predictivos hasta **agentes de IA y flujos de automatización complejos**.
 
@@ -17,6 +17,7 @@ Me especializo en construir soluciones de datos que transforman información en 
   - 🔍 Apasionado por entender **cómo piensan y actúan los clientes** mediante datos.
   - 🧠 Fuerte enfoque en proyectos de **machine learning supervisado y no supervisado**.
   - 🚀 Experiencia aplicando **modelos predictivos y segmentación de clientes**.
+  - 💡 Diseño y optimización de **campañas publicitarias en Meta Ads y Google Ads**, basadas en análisis de datos y comportamiento de usuario.
   - 🛠️ Desarrollo de **aplicaciones interactivas con Streamlit** para democratizar el uso de modelos en equipos de negocio.
   - ⚡ Experto en **automatización avanzada** con n8n y flowise, integrando LLMs (OpenAI, Gemini, Mistral) y APIs (Google, WhatsApp, Telegram, Qdrant).
   - 🤖 Diseño de ecosistemas de Agentes de IA (**RAG**, **Orquestación Multi-Agente**, **MCP**), incluyendo **asistentes personales**, **bots agénticos** y flujos de **meta-automatización**.
@@ -93,6 +94,13 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![GitHub API](https://img.shields.io/badge/-GitHub%20API-181717?style=flat\&logo=github\&logoColor=white)
 ![Microsoft Graph API](https://img.shields.io/badge/-Microsoft%20Graph-5E5E5E?style=flat\&logo=microsoft\&logoColor=white)
 ![MCP Client](https://img.shields.io/badge/-MCP%20Client-009688?style=flat\&logo=data\&logoColor=white)
+
+### **Marketing & Analítica Digital**
+![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-0866FF?style=flat&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![Data Studio](https://img.shields.io/badge/-Looker%20Studio-1A73E8?style=flat&logo=looker&logoColor=white)
+![SEO Tools](https://img.shields.io/badge/-SEO%20%26%20SEM-0A66C2?style=flat&logo=search&logoColor=white)
 
 ### **Control de Versiones**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
