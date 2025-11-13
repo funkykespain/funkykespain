@@ -128,10 +128,23 @@ Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicio
 
 > - **KykeBot**: Asistente personal multi-agente con RAG y herramientas (WhatsApp, Google Calendar).
 > - **Boletín de Audio**: Orquesta de 3 IAs que genera un podcast de noticias mandado por WhatsApp.
-> - **ArrojoBot**: Chatbot RAG con herramientas (Spotify, YouTube, Facebook).
+> - **Y muchos más...** incluyendo flujos de curación de contenido y meta-workflows de gestión autónoma.
 
 🔗 [Charlar con KikeBot](https://wa.me/34665656404)
 🔗 [Recibir boletín de noticias](https://wa.me/34665656404?text=Alta%20noticias)
+
+### 🎸 [ARROJO: Ecosistema Digital y Agente de IA (Full Stack)](https://github.com/funkykespain/workflows-n8n-publicos/tree/main/Arrojo)
+
+**Proyecto integral de marketing digital, desarrollo y automatización para la banda de rock ARROJO.**
+Este proyecto es un caso de estudio completo que unifica la estrategia de marca con la ingeniería de IA, creando un ecosistema de *fan engagement* automatizado.
+
+> - **Hub Digital:** Creación y gestión de contenido del sitio web oficial (`arrojorock.es`).
+> - **Marketing Tech & Analytics:** Implementación de un *smart-link* (`/presubscribe`) con **conversiones personalizadas (Píxel de Meta)** para la trazabilidad y optimización de campañas en **Meta Ads**.
+> - **Agente RAG (ArrojoBot):** Chatbot en Telegram con RAG (usando Qdrant y Flowise) para responder preguntas sobre la banda (bio, conciertos).
+> - **Integración de Herramientas (Tools):** El bot se conecta a APIs de **Spotify** (para buscar últimos lanzamientos), **YouTube** (para buscar vídeos) y **Facebook** (para leer las últimas noticias).
+> - **Estrategia de Marketing:** Gestión de la narrativa de marca, SEO y coordinación de menciones en prensa.
+
+🔗 [Visitar la web oficial](https://arrojorock.es)
 🔗 [Charlar con ArrojoBot](https://t.me/ArrojoBot_dev_bot)
 
 ---
