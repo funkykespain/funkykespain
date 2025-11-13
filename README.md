@@ -19,7 +19,7 @@ Me especializo en construir soluciones de datos que transforman información en 
   - 🚀 Experiencia aplicando **modelos predictivos y segmentación de clientes**.
   - 💡 Diseño y optimización de **campañas publicitarias en Meta Ads y Google Ads**, basadas en análisis de datos y comportamiento de usuario.
   - 📈 Optimización de **funnels de conversión en el sector EdTech** (educación superior), aplicando IA (RAG, análisis de sentimiento) y *scraping* inteligente para la **cualificación y priorización de leads**.
-  - 🏗️ Liderazgo técnico en la **construcción de MVPs y escalado de plataformas** de IA (contenedores, cloud, DBs) para soluciones B2B.
+  - 🏗️ Liderazgo técnico en la **construcción de MVPs y escalado de plataformas** de IA (contenedores, cloud, DBs) para soluciones B2B.
   - 🛠️ Desarrollo de **aplicaciones interactivas con Streamlit** para democratizar el uso de modelos en equipos de negocio.
   - ⚡ Experto en **automatización avanzada** con n8n y flowise, integrando LLMs (OpenAI, Gemini, Mistral) y APIs (Google, WhatsApp, Telegram, Qdrant).
   - 🤖 Diseño de ecosistemas de Agentes de IA (**RAG**, **Orquestación Multi-Agente**, **MCP**), incluyendo **asistentes personales**, **bots agénticos** y flujos de **meta-automatización**.
