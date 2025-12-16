@@ -135,6 +135,17 @@ Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicio
 🔗 [Charlar con KikeBot](https://wa.me/34665656404)
 🔗 [Recibir boletín de noticias](https://wa.me/34665656404?text=Alta%20noticias)
 
+### 🎙️ [AI Transcriptor: Interpretación Bilateral](https://www.google.com/search?q=https://github.com/funkykespain/transcriptor-whisper)
+
+**Aplicación Full-Stack para la transcripción y análisis automatizado de exámenes de interpretación.**
+Automatiza la corrección docente mediante diarización (detección de turnos de palabra) y clasificación de idiomas, desplegado en arquitectura de microservicios.
+
+>   - **Backend AI:** Despliegue de **OpenAI Whisper** (Faster-Whisper) sobre Docker para inferencia de audio.
+>   - **Lógica de Negocio:** Algoritmos propios en Python para la detección estadística de lengua B (Inglés/Francés/Italiano) vs. Español.
+>   - **Frontend:** Interfaz segura desarrollada en **Streamlit** para la carga de archivos y generación de actas.
+
+🔗 [Probar Herramienta Web](https://transcriptor-web.bp1xn4.easypanel.host)
+
 ### 🎸 [ARROJO: Ecosistema Digital y Agente de IA (Full Stack)](https://github.com/funkykespain/workflows-n8n-publicos/tree/main/Arrojo)
 
 **Proyecto integral de marketing digital, desarrollo y automatización para la banda de rock ARROJO.**
