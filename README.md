@@ -135,7 +135,7 @@ Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicio
 🔗 [Charlar con KikeBot](https://wa.me/34665656404)
 🔗 [Recibir boletín de noticias](https://wa.me/34665656404?text=Alta%20noticias)
 
-### 🎙️ [AI Transcriptor: Interpretación Bilateral](https://www.google.com/search?q=https://github.com/funkykespain/transcriptor-whisper)
+### 🎙️ [AI Transcriptor: Interpretación Bilateral](https://github.com/funkykespain/transcriptor-whisper)
 
 **Aplicación Full-Stack para la transcripción y análisis automatizado de exámenes de interpretación.**
 Automatiza la corrección docente mediante diarización (detección de turnos de palabra) y clasificación de idiomas, desplegado en arquitectura de microservicios.
