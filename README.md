@@ -67,6 +67,9 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-512DA8?style=flat\&logo=qdrant\&logoColor=white)
 ![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-00BCD4?style=flat\&logo=python\&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Meta Llama](https://img.shields.io/badge/-Meta%20Llama-044E83?style=flat&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-4A154B?style=flat&logo=qdrant&logoColor=white)
 
 ### **Visualización de Datos**
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
@@ -159,6 +162,19 @@ Este proyecto es un caso de estudio completo que unifica la estrategia de marca 
 
 🔗 [Visitar la web oficial](https://arrojorock.es)
 🔗 [Charlar con ArrojoBot](https://t.me/ArrojoBot_dev_bot)
+
+### 🦅 [Arrojo Content Generator: AI Agent & RAG](https://github.com/funkykespain/ContenidoArrojo)
+
+**Agente de IA verticalizado para la automatización creativa y gestión de Redes Sociales.**
+Herramienta interna (B2B) diseñada para actuar como Community Manager, generando contenido multicanal que respeta estrictamente la identidad verbal de la marca ("Estilo Arrojero").
+
+> - **Arquitectura RAG Avanzada:** Recuperación híbrida de información utilizando **Qdrant** (datos vectoriales de biografía/letras) y **Google Sheets** (datos en tiempo real de agenda de conciertos).
+> - **LLM de Alta Capacidad:** Orquestación con **LangChain** utilizando **Meta Llama 3.3 70B** para un razonamiento complejo y matices lingüísticos en español.
+> - **Ingeniería de Prompt:** Sistema de "Guardrails" para asegurar que el tono, los emojis y los CTAs se ajusten a las reglas de negocio sin alucinaciones.
+> - **UI Corporativa:** Interfaz en **Streamlit** con inyección de CSS para replicar el *Look & Feel* oficial de la marca.
+
+🔗 [Ver Repositorio](https://github.com/funkykespain/ContenidoArrojo)
+🔗 [Ver Demo (App)](https://contenido.arrojorock.es)
 
 ---
 
