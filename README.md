@@ -59,6 +59,8 @@ Me especializo en construir soluciones de datos que transforman información en 
 
 ### **LLMs, NLP & AI Tools**
 ![Ollama](https://img.shields.io/badge/-Ollama-7C4DFF?style=flat&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Meta Llama](https://img.shields.io/badge/-Meta%20Llama-044E83?style=flat&logo=meta&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![Whisper](https://img.shields.io/badge/-Whisper-17B5CB?style=flat&logo=openai&logoColor=white)
 ![Google Gemini (PaLM)](https://img.shields.io/badge/-Google%20Gemini-8E24AA?style=flat\&logo=google\&logoColor=white)
@@ -67,9 +69,6 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-512DA8?style=flat\&logo=qdrant\&logoColor=white)
 ![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-00BCD4?style=flat\&logo=python\&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Meta Llama](https://img.shields.io/badge/-Meta%20Llama-044E83?style=flat&logo=meta&logoColor=white)
-![Qdrant](https://img.shields.io/badge/-Qdrant-4A154B?style=flat&logo=qdrant&logoColor=white)
 
 ### **Visualización de Datos**
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
