@@ -63,6 +63,7 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![Meta Llama](https://img.shields.io/badge/-Meta%20Llama-044E83?style=flat&logo=meta&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![Whisper](https://img.shields.io/badge/-Whisper-17B5CB?style=flat&logo=openai&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
 ![Google Gemini (PaLM)](https://img.shields.io/badge/-Google%20Gemini-8E24AA?style=flat\&logo=google\&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-FF6F00?style=flat\&logo=elevenlabs\&logoColor=white)
 ![Pyannote](https://img.shields.io/badge/-Pyannote-1DA1F2?style=flat&logo=python&logoColor=white)
@@ -98,6 +99,7 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![GitHub API](https://img.shields.io/badge/-GitHub%20API-181717?style=flat\&logo=github\&logoColor=white)
 ![Microsoft Graph API](https://img.shields.io/badge/-Microsoft%20Graph-5E5E5E?style=flat\&logo=microsoft\&logoColor=white)
 ![MCP Client](https://img.shields.io/badge/-MCP%20Client-009688?style=flat\&logo=data\&logoColor=white)
+![Ko-fi](https://img.shields.io/badge/-Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)
 
 ### **Marketing & Analítica Digital**
 ![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-0866FF?style=flat&logo=meta&logoColor=white)
@@ -137,16 +139,17 @@ Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicio
 🔗 [Charlar con KikeBot](https://wa.me/34665656404)
 🔗 [Recibir boletín de noticias](https://wa.me/34665656404?text=Alta%20noticias)
 
-### 🎙️ [AI Transcriptor: Interpretación Bilateral](https://github.com/funkykespain/transcriptor-whisper)
+### 🎙️ [AI Transcriptor: Interpretación Bilateral (v2.1)](https://github.com/funkykespain/transcriptor-whisper)
 
-**Aplicación Full-Stack para la transcripción y análisis automatizado de exámenes de interpretación.**
-Automatiza la corrección docente mediante diarización (detección de turnos de palabra) y clasificación de idiomas, desplegado en arquitectura de microservicios.
+**SaaS Académico para la transcripción forense y evaluación de exámenes de interpretación.**
+Evolución de una herramienta local a una **arquitectura Cloud-Native** que utiliza IA Generativa Multimodal para generar actas literales ("verbatim") sin alucinaciones ni correcciones gramaticales.
 
->   - **Backend AI:** Despliegue de **OpenAI Whisper** (Faster-Whisper) sobre Docker para inferencia de audio.
->   - **Lógica de Negocio:** Algoritmos propios en Python para la detección estadística de lengua B (Inglés/Francés/Italiano) vs. Español.
->   - **Frontend:** Interfaz segura desarrollada en **Streamlit** para la carga de archivos y generación de actas.
+> - **Core IA Multimodal:** Migración de Whisper a **Google Gemini 2.5 Flash** (vía OpenRouter) para una comprensión nativa del audio y detección de contexto.
+> - **Lógica Forense (Python):** Algoritmos de **Contexto Deslizante** y **Filtros Anti-Bucle** que garantizan la fidelidad del acta, respetando los errores del alumno para su evaluación.
+> - **Ingeniería de Software:** Implementación de **Acceso Multi-Usuario**, integración de pagos (**Ko-fi**) y despliegue contenerizado en **Docker**.
+> - **Frontend Académico:** Interfaz en **Streamlit** con visualización de onda de audio y auto-calibración de micrófono.
 
-🔗 [Probar Herramienta Web](https://transcriptor-web.bp1xn4.easypanel.host)
+🔗 [Probar Herramienta Web](http://80.225.185.122/)
 
 ### 🎸 [ARROJO: Ecosistema Digital y Agente de IA (Full Stack)](https://github.com/funkykespain/workflows-n8n-publicos/tree/main/Arrojo)
 
