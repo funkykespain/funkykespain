@@ -149,6 +149,7 @@ Evolución de una herramienta local a una **arquitectura Cloud-Native** que util
 > - **Ingeniería de Software:** Implementación de **Acceso Multi-Usuario**, integración de pagos (**Ko-fi**) y despliegue contenerizado en **Docker**.
 > - **Frontend Académico:** Interfaz en **Streamlit** con visualización de onda de audio y auto-calibración de micrófono.
 
+🔗 [Ver Repositorio](https://github.com/funkykespain/transcriptor-whisper)
 🔗 [Probar Herramienta Web](http://80.225.185.122/)
 
 ### 🎸 [ARROJO: Ecosistema Digital y Agente de IA (Full Stack)](https://github.com/funkykespain/workflows-n8n-publicos/tree/main/Arrojo)
