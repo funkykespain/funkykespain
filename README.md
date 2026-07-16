@@ -14,15 +14,15 @@ Me especializo en construir soluciones de datos que transforman información en 
 
 ## 💼 Sobre mí
 
-  - 🔍 Apasionado por entender **cómo piensan y actúan los clientes** mediante datos.
-  - 🧠 Fuerte enfoque en proyectos de **machine learning supervisado y no supervisado**.
-  - 🚀 Experiencia aplicando **modelos predictivos y segmentación de clientes**.
-  - 💡 Diseño y optimización de **campañas publicitarias en Meta Ads y Google Ads**, basadas en análisis de datos y comportamiento de usuario.
-  - 📈 Optimización de **funnels de conversión en el sector EdTech** (educación superior), aplicando IA (RAG, análisis de sentimiento) y *scraping* inteligente para la **cualificación y priorización de leads**.
-  - 🏗️ Liderazgo técnico en la **construcción de MVPs y escalado de plataformas** de IA (contenedores, cloud, DBs) para soluciones B2B.
-  - 🛠️ Desarrollo de **aplicaciones interactivas con Streamlit** para democratizar el uso de modelos en equipos de negocio.
-  - ⚡ Experto en **automatización avanzada** con n8n y flowise, integrando LLMs (OpenAI, Gemini, Mistral) y APIs (Google, WhatsApp, Telegram, Qdrant).
-  - 🤖 Diseño de ecosistemas de Agentes de IA (**RAG**, **Orquestación Multi-Agente**, **MCP**), incluyendo **asistentes personales**, **bots agénticos** y flujos de **meta-automatización**.
+  - Apasionado por entender **cómo piensan y actúan los clientes** mediante datos.
+  - Fuerte enfoque en proyectos de **machine learning supervisado y no supervisado**.
+  - Experiencia aplicando **modelos predictivos y segmentación de clientes**.
+  - Diseño y optimización de **campañas publicitarias en Meta Ads y Google Ads**, basadas en análisis de datos y comportamiento de usuario.
+  - Optimización de **funnels de conversión en el sector EdTech** (educación superior), aplicando IA (RAG, análisis de sentimiento) y *scraping* inteligente para la **cualificación y priorización de leads**.
+  - Liderazgo técnico en la **construcción de MVPs y escalado de plataformas** de IA (contenedores, cloud, DBs) para soluciones B2B.
+  - Desarrollo de **aplicaciones interactivas con Streamlit** para democratizar el uso de modelos en equipos de negocio.
+  - Experto en **automatización avanzada** con n8n y flowise, integrando LLMs (OpenAI, Gemini, Mistral) y APIs (Google, WhatsApp, Telegram, Qdrant).
+  - Diseño de ecosistemas de Agentes de IA (**RAG**, **Orquestación Multi-Agente**, **MCP**), incluyendo **asistentes personales**, **bots agénticos** y flujos de **meta-automatización**.
 
 ---
 
@@ -116,7 +116,7 @@ Me especializo en construir soluciones de datos que transforman información en 
 
 ## 📂 Repositorios Destacados
 
-### 🧠 [Marketing ML: Customer Personality Analysis](https://github.com/funkykespain/marketing_ml_classification_regression_clustering)
+### [Marketing ML: Customer Personality Analysis](https://github.com/funkykespain/marketing_ml_classification_regression_clustering)
 **Predicción y segmentación de clientes basada en modelos de clasificación, regresión y clustering.**  
 Incluye análisis exploratorio, selección de variables, interpretabilidad de modelos y despliegue con Streamlit.
 
@@ -127,7 +127,7 @@ Incluye análisis exploratorio, selección de variables, interpretabilidad de mo
 🔗 [Abrir App Clasificación](https://marketingmlclassificationregressionclustering-2apkcvnbir7q4iuc.streamlit.app)
 🔗 [Abrir App Regresión](https://funkykespain-marketing--appregression02-regression-model-rjzlvk.streamlit.app)
 
-### 🤖 [Workflows de n8n: Agentes de IA y Automatización](https://github.com/funkykespain/workflows-n8n-publicos)
+### [Workflows de n8n: Agentes de IA y Automatización](https://github.com/funkykespain/workflows-n8n-publicos)
 
 **Colección pública de workflows avanzados de n8n, enfocados en Agentes de IA, RAG y automatización.**
 Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicios (MCP), flujos de curación de contenido y meta-workflows de gestión autónoma entre agentes.
@@ -139,7 +139,7 @@ Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicio
 🔗 [Charlar con KikeBot](https://wa.me/34665656404)
 🔗 [Recibir boletín de noticias](https://wa.me/34665656404?text=Alta%20noticias)
 
-### 🎙️ [AI Transcriptor: Interpretación Bilateral (v2.1)](https://github.com/funkykespain/transcriptor-whisper)
+### [AI Transcriptor: Interpretación Bilateral (v2.1)](https://github.com/funkykespain/transcriptor-whisper)
 
 **SaaS Académico para la transcripción forense y evaluación de exámenes de interpretación.**
 Evolución de una herramienta local a una **arquitectura Cloud-Native** que utiliza IA Generativa Multimodal para generar actas literales ("verbatim") sin alucinaciones ni correcciones gramaticales.
@@ -152,7 +152,7 @@ Evolución de una herramienta local a una **arquitectura Cloud-Native** que util
 🔗 [Ver Repositorio](https://github.com/funkykespain/transcriptor-whisper)
 🔗 [Probar Herramienta Web](http://80.225.185.122/)
 
-### 🎸 [ARROJO: Ecosistema Digital y Agente de IA (Full Stack)](https://github.com/funkykespain/workflows-n8n-publicos/tree/main/Arrojo)
+### [ARROJO: Ecosistema Digital y Agente de IA (Full Stack)](https://github.com/funkykespain/workflows-n8n-publicos/tree/main/Arrojo)
 
 **Proyecto integral de marketing digital, desarrollo y automatización para la banda de rock ARROJO.**
 Este proyecto es un caso de estudio completo que unifica la estrategia de marca con la ingeniería de IA, creando un ecosistema de *fan engagement* automatizado.
@@ -166,7 +166,7 @@ Este proyecto es un caso de estudio completo que unifica la estrategia de marca 
 🔗 [Visitar la web oficial](https://arrojorock.es)
 🔗 [Charlar con ArrojoBot](https://t.me/ArrojoBot_dev_bot)
 
-### 🦅 [Arrojo Content Generator: AI Agent & RAG](https://github.com/funkykespain/ContenidoArrojo)
+### [Arrojo Content Generator: AI Agent & RAG](https://github.com/funkykespain/ContenidoArrojo)
 
 **Agente de IA verticalizado para la automatización creativa y gestión de Redes Sociales.**
 Herramienta interna (B2B) diseñada para actuar como Community Manager, generando contenido multicanal que respeta estrictamente la identidad verbal de la marca ("Estilo Arrojero").
