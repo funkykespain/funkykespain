@@ -14,7 +14,7 @@ Me especializo en construir soluciones de datos que transforman información en 
 
 ## 💼 Sobre mí
 
-  - Apasionado por entender **cómo piensan y actúan los clientes** mediante datos.
+  - Apasionado por entender **cómo piensan y actúan los clientes** mediante datos, aplicando mi formación en economía al análisis de comportamiento y toma de decisiones
   - Fuerte enfoque en proyectos de **machine learning supervisado y no supervisado**.
   - Experiencia aplicando **modelos predictivos y segmentación de clientes**.
   - Diseño y optimización de **campañas publicitarias en Meta Ads y Google Ads**, basadas en análisis de datos y comportamiento de usuario.
