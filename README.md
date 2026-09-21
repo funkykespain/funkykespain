@@ -68,6 +68,7 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-FF6F00?style=flat\&logo=elevenlabs\&logoColor=white)
 ![Pyannote](https://img.shields.io/badge/-Pyannote-1DA1F2?style=flat&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-412991?style=flat&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-512DA8?style=flat\&logo=qdrant\&logoColor=white)
 ![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-00BCD4?style=flat\&logo=python\&logoColor=white)
 
@@ -139,7 +140,7 @@ Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicio
 🔗 [Charlar con KikeBot](https://wa.me/34665656404)
 🔗 [Recibir boletín de noticias](https://wa.me/34665656404?text=Alta%20noticias)
 
-### [AI Transcriptor: Exámenes de Interpretación Bilateral (v2.2)](https://github.com/funkykespain/transcriptor-whisper)
+### [AI Transcriptor: Exámenes de Interpretación Bilateral (v2.2)](https://github.com/funkykespain/transcriptor-whisper) [![Release](https://img.shields.io/github/v/release/funkykespain/transcriptor-whisper?style=flat)](https://github.com/funkykespain/transcriptor-whisper/releases)
 
 **SaaS Académico ("Forensic Transcription") para la evaluación automática de exámenes orales de Interpretación Bilateral.**
 
