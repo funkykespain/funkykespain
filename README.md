@@ -139,18 +139,30 @@ Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicio
 🔗 [Charlar con KikeBot](https://wa.me/34665656404)
 🔗 [Recibir boletín de noticias](https://wa.me/34665656404?text=Alta%20noticias)
 
-### [AI Transcriptor: Interpretación Bilateral (v2.1)](https://github.com/funkykespain/transcriptor-whisper)
+### [AI Transcriptor: Exámenes de Interpretación Bilateral (v2.2)](https://github.com/funkykespain/transcriptor-whisper)
 
-**SaaS Académico para la transcripción forense y evaluación de exámenes de interpretación.**
-Evolución de una herramienta local a una **arquitectura Cloud-Native** que utiliza IA Generativa Multimodal para generar actas literales ("verbatim") sin alucinaciones ni correcciones gramaticales.
+**SaaS Académico ("Forensic Transcription") para la evaluación automática de exámenes orales de Interpretación Bilateral.**
 
-> - **Core IA Multimodal:** Migración de Whisper a **Google Gemini 2.5 Flash** (vía OpenRouter) para una comprensión nativa del audio y detección de contexto.
-> - **Lógica Forense (Python):** Algoritmos de **Contexto Deslizante** y **Filtros Anti-Bucle** que garantizan la fidelidad del acta, respetando los errores del alumno para su evaluación.
-> - **Ingeniería de Software:** Implementación de **Acceso Multi-Usuario**, integración de pagos (**Ko-fi**) y despliegue contenerizado en **Docker**.
-> - **Frontend Académico:** Interfaz en **Streamlit** con visualización de onda de audio y auto-calibración de micrófono.
+Evolución de una herramienta local a una **arquitectura Cloud-Native** con **IA Generativa Multimodal** que genera actas literales ("verbatim") sin alucinaciones ni correcciones gramaticales, para **Español + cualquier Lengua B** (italiano, inglés, francés, alemán…).
+
+> - **🧭 Motor de Idioma 100% Agnóstico:** Pipeline en **2 Fases** (LID primero → Transcripción Guiada) con **Inercia Conversacional e Histéresis** (ventana 6 s), **doble confirmación anti-interlengua** y filtros **anti-sangrado de audio/auriculares** (energía RMS pre-LLM).
+> - **🔊 Core IA Multimodal:** Soporte **multi-modelo** vía OpenRouter (**Mistral Voxtral 24B** | **Google Gemini Flash**) con detección de idioma nativa Whisper (tiny, INT8) y transcripción guiada por segmento.
+> - **🛡️ Lógica Forense (Python):** Contexto Deslizante, filtros **Anti-Bucle/Anti-Eco**, **Prompt Forense Agnóstico** y precisión acústica (pasa-altos 100 Hz, padding 600 ms) que respetan los errores del alumno para su evaluación.
+> - **🧑‍🏫 Ingeniería de Software:** **Acceso Multi-Usuario**, claves vía **Ko-fi**, despliegue contenerizado en **Docker** con **soporte ARM64** (VAD ONNX sin PyTorch, optimizado para VPS Ampere A1/Easypanel).
 
 🔗 [Ver Repositorio](https://github.com/funkykespain/transcriptor-whisper)
-🔗 [Probar Herramienta Web](http://80.225.185.122/)
+🔗 [Probar Herramienta Web](https://transcrapp.kyke.dpdns.org)
+
+<details>
+<summary>📜 Evolución de versiones (v2.1 → v2.2)</summary>
+
+| Versión | Novedad | Fecha |
+| :--- | :--- | :--- |
+| **v2.1** | Contexto Inteligente (Sliding Window), Anti-Bucle, Acceso Multi-Usuario y Ko-fi. | Feb 2026 |
+| **v2.1.1** | Soporte multi-modelo (Mistral Voxtral / Gemini) y fix de sampling (`top_p=1`). | Sep 2026 |
+| **v2.1.2** | Prompt Forense agnóstico, precisión acústica (100 Hz / 600 ms) y anti prompt-leakage. | Sep 2026 |
+| **v2.2** | Motor 100% agnóstico en 2 fases (LID → Guiada), inercia/histéresis 6 s, anti-bleed y ARM64. | Sep 2026 |
+</details>
 
 ### [ARROJO: Ecosistema Digital y Agente de IA (Full Stack)](https://github.com/funkykespain/workflows-n8n-publicos/tree/main/Arrojo)
 
