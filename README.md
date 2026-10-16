@@ -66,6 +66,8 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
 ![Google Gemini (PaLM)](https://img.shields.io/badge/-Google%20Gemini-8E24AA?style=flat\&logo=google\&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-FF6F00?style=flat\&logo=elevenlabs\&logoColor=white)
+![PocketTTS](https://img.shields.io/badge/-PocketTTS-FF4B4B?style=flat&logo=python&logoColor=white)
+![Azure Speech](https://img.shields.io/badge/-Azure%20Speech-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Pyannote](https://img.shields.io/badge/-Pyannote-1DA1F2?style=flat&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/-OpenRouter-412991?style=flat&logoColor=white)
