@@ -69,6 +69,7 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![Pyannote](https://img.shields.io/badge/-Pyannote-1DA1F2?style=flat&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/-OpenRouter-412991?style=flat&logoColor=white)
+![NVIDIA API](https://img.shields.io/badge/-NVIDIA%20API-76B900?style=flat&logo=nvidia&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-512DA8?style=flat\&logo=qdrant\&logoColor=white)
 ![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-00BCD4?style=flat\&logo=python\&logoColor=white)
 
@@ -81,12 +82,14 @@ Me especializo en construir soluciones de datos que transforman información en 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-5436DA?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Browserless](https://img.shields.io/badge/-Browserless-111111?style=flat&logo=googlechrome&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### **Automatización, Integraciones y Orquestación**
 ![n8n](https://img.shields.io/badge/-n8n-4E9BCD?style=flat\&logo=n8n\&logoColor=white)
 ![Flowise](https://img.shields.io/badge/-Flowise-2A2E8C?style=flat\&logo=openai\&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/-WhatsApp%20Automation-25D366?style=flat\&logo=whatsapp\&logoColor=white)
+![Evolution API](https://img.shields.io/badge/-Evolution%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/-Telegram%20Bots-26A5E4?style=flat\&logo=telegram\&logoColor=white)
 ![Facebook Graph API](https://img.shields.io/badge/-Facebook%20Graph%20API-1877F2?style=flat\&logo=facebook\&logoColor=white)
 ![LinkedIn API](https://img.shields.io/badge/-LinkedIn%20Automation-0077B5?style=flat\&logo=linkedin\&logoColor=white)
@@ -134,7 +137,7 @@ Incluye análisis exploratorio, selección de variables, interpretabilidad de mo
 Incluye chatbots (WhatsApp/Telegram), orquestación multi-agente, micro-servicios (MCP), flujos de curación de contenido y meta-workflows de gestión autónoma entre agentes.
 
 > - **KykeBot**: Asistente personal multi-agente con RAG y herramientas (WhatsApp, Google Calendar).
-> - **Boletín de Audio**: Orquesta de 3 IAs que genera un podcast de noticias mandado por WhatsApp.
+> - **Boletín de Audio**: Orquesta multi-agente con voz autoalojada y distribución segura por WhatsApp.
 > - **Y muchos más...** incluyendo flujos de curación de contenido y meta-workflows de gestión autónoma.
 
 🔗 [Charlar con KikeBot](https://wa.me/34665656404)
